@@ -1,2 +1,5 @@
-# Dictionary-python-
+# PYTHON PROGRAMMING: DICTIONARY
 30-word Dictionary
+
+VIDEO OF THE 30-WORD DICTIONARY
+https://youtu.be/aExQdUU_tIo
